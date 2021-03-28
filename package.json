@@ -1,0 +1,25 @@
+{
+  "name": "ever-given",
+  "version": "0.0.1",
+  "description": "A package that blocks the flow of a specific channel",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweko/ever-given.git"
+  },
+  "keywords": [
+    "block",
+    "suez",
+    "ever-given",
+    "delay"
+  ],
+  "author": "Wekoslav Stefanovski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sweko/ever-given/issues"
+  },
+  "homepage": "https://github.com/sweko/ever-given#readme"
+}
