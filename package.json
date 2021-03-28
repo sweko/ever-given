@@ -1,6 +1,6 @@
 {
   "name": "ever-given",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A package that blocks the flow of a specific channel",
   "main": "dist/index.js",
   "scripts": {
